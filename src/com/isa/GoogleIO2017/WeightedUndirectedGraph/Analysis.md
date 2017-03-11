@@ -1,6 +1,6 @@
 # Where Ya Gonna Call?: Analysis
 
-We can model the input as a [weighted undirected graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)). The question to be answered is similar to finding the graph's radius. In fact, we are asked to minimize the input graph's radius by possibly adding a single node inside an existing edge. This view is not only a succinct and accurate way to describe the problem, but also a first step towards a solution.
+We can model the input as a [weighted undirected graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)). The question to be answered is similar to finding the graph's [radius](https://en.wikipedia.org/wiki/Distance_(graph_theory)#Related_concepts). In fact, we are asked to minimize the input graph's radius by possibly adding a single node inside an existing edge. This view is not only a succinct and accurate way to describe the problem, but also a first step towards a solution.
 
 ### Small dataset
 
